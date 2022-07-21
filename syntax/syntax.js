@@ -15,3 +15,8 @@ console.log(C);
 let b = 99;
 b = b + 1;
 console.log(b);
+/*
+Test
+Multiline
+Comment
+*/
